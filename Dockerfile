@@ -66,7 +66,8 @@ RUN rm -rf /Elvis/config/routes.rb
 
 RUN PLUGINS_LIST_DOWNLOAD_URL=$PLUGINS_LIST_DOWNLOAD_URL rake elvis:plugins:install_npm_dependencies
 
-RUN yarn install --check-files
+#RUN yarn install --check-files
+RUN yarn install
 
 COPY bin /Elvis/bin
 
