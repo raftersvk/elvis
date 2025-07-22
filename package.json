@@ -79,7 +79,7 @@
     "react-autosuggest": "^10.1.0",
     "react-csv": "^2.2.2",
     "react-datepicker": "^5.8.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^17.0.0",
     "react-draft-wysiwyg": "^1.14.8",
     "react-dropzone": "^14.2.3",
     "react-email-editor": "^1.14.0",
