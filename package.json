@@ -75,7 +75,7 @@
     "postcss-preset-env": "^8.0.0",
     "prop-types": "^15.8.1",
     "rc-time-picker": "^3.8.0",
-    "react": "^18.2.0",
+    "react": "^17.0.0",
     "react-autosuggest": "^10.1.0",
     "react-csv": "^2.2.2",
     "react-datepicker": "^5.8.0",
