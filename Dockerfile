@@ -7,7 +7,7 @@ COPY --from=node /usr/local/lib /usr/local/lib
 COPY --from=node /usr/local/include /usr/local/include
 COPY --from=node /usr/local/bin /usr/local/bin
 
-RUN npm install -g yarn --force
+RUN npm install -g yarn --force  --legacy-peer-deps
 
 # Sets the path where the app is going to be installed
 ENV RAILS_ROOT=/Elvis
