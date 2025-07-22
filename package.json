@@ -28,7 +28,7 @@
     "@fullcalendar/timegrid": "^6.1.18",
     "@hookform/resolvers": "^3.0.0",
     "@rails/webpacker": "^5.4.4",
-    "@ramonak/react-progress-bar": "^6.0.0",
+    "@ramonak/react-progress-bar": "^5.3.0",
     "@types/babel__core": "^7.20.0",
     "@types/webpack": "^5.88.0",
     "@wojtekmaj/react-daterange-picker": "^4.0.0",
