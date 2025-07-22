@@ -33,7 +33,7 @@
     "@types/webpack": "^5.28.5",
     "@wojtekmaj/react-daterange-picker": "^4.0.0",
     "@wojtekmaj/react-timerange-picker": "^4.0.0",
-    "activestorage": "^6.1.0",
+    "@rails/activestorage": "^8.0.200",
     "autosize": "^4.0.2",
     "babel-loader": "^8.4.0",
     "babel-plugin-transform-runtime": "^7.28.0",
